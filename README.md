@@ -1,1 +1,1 @@
-# template-cbfs
+# Template CBFS®
